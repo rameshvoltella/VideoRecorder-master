@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ced6f0a78e8961822879b22fb2de7449046ab681">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\instant-run_6bd2728b0c5695422a6b3a8703cbf25df445a009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\AndroidStudio\VideoRecorder-master1\app\libs\javacpp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff8f2a518e524ae8de093d6556fc21a6ab8f05b2">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\javacpp_1d3ee75047c82092f54ec5439d2651436f69d470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\AndroidStudio\VideoRecorder-master1\app\libs\javacv.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="310927e25b52136954b65608f341dfd5e5ad9d64">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\javacv_c80904f6ca669fe45ff2772ff127ee83f5fd1301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e56a2ea5bdce1cf676897b2a6ae3c5ee3d560c9">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b30e8d8fb53223d77ebd91226134dff2a2a5f3f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_7fdc1a24fc5d39b763a49a332ffc221d4ee6606a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\AndroidStudio\VideoRecorder-master1\app\libs\javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.2"
+        sha1="ff8f2a518e524ae8de093d6556fc21a6ab8f05b2">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\javacpp_1d3ee75047c82092f54ec5439d2651436f69d470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\AndroidStudio\VideoRecorder-master1\app\libs\javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.2"
+        sha1="310927e25b52136954b65608f341dfd5e5ad9d64">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\javacv_c80904f6ca669fe45ff2772ff127ee83f5fd1301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Code\AndroidStudio\VideoRecorder-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_7fdc1a24fc5d39b763a49a332ffc221d4ee6606a.jar" />
+    </item>
+
+</items>

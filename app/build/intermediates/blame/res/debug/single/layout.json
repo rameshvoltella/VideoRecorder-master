@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ffmpeg_preview.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_ffmpeg_preview.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ffmpeg_preview.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\layout\\activity_ffmpeg_preview.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_tpl.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\layout\\global_dialog_tpl.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder_progress.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_recorder_progress.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_tpl.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\layout\\global_dialog_tpl.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder_progress.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\layout\\activity_recorder_progress.xml"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video_text.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_video_text.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_status_color.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\button_status_color.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_globaldialog.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\button_globaldialog.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_frontcamera.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_frontcamera.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_flashlight.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_flashlight.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_next.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_next.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_video.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_flashlight.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_flashlight.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_success_progress.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\recorder_success_progress.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_success_progress.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\recorder_success_progress.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video_text.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_video_text.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_next.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_next.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_picture.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_picture.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_globaldialog.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\button_globaldialog.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_cancel.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_cancel.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_status_color.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\button_status_color.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_picture.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_picture.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_cancel.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_cancel.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_video.xml"
+    },
+    {
+        "merged": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_frontcamera.xml",
+        "source": "F:\\Code\\AndroidStudio\\VideoRecorder-master\\app\\src\\main\\res\\drawable\\btn_recorder_frontcamera.xml"
+    }
+]
